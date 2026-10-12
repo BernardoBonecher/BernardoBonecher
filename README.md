@@ -1,7 +1,7 @@
 ### Hi, I'm Bernardo
 
 Product Owner at [Wine Locals](https://www.wine-locals.com), a wine tourism marketplace in Brazil.
-I came to product from data: business intelligence, then market intelligence, then building the
+I studied Business Administration at UFSC and came to product from data: business intelligence, then market intelligence, then building the
 tracking, pipelines and dashboards a product team runs on. Since August 2026 I own the product side.
 
 I work where product, data and AI-assisted development meet: framing the problem, checking it against
@@ -26,12 +26,12 @@ none of that code is public. This profile is where I build things in the open in
 Three public portfolio projects with synthetic or public data, each one a different kind of product.
 Links will appear here as each one ships.
 
-**Learning**
+**Education and learning**
 
-- Alura career *AI Product Builder*, levels 1–2 (prompt and context engineering, product discovery, Claude Code, Lovable, Supabase, n8n)
+- B.A. in Business Administration, Federal University of Santa Catarina (UFSC)
+- Alura careers: *AI Product Builder* (prompt and context engineering, product discovery, Claude Code, Lovable, Supabase, n8n), *AI Specialist* and *Tech Lead in the AI Era*
 - Alura track *Product Management* and *Scrum*
-- In progress: *AI Product Builder* level 3, *AI Specialist* and *Tech Lead in the AI Era* careers
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/bernardobonecher/) · Florianópolis, Brazil
+[LinkedIn](https://www.linkedin.com/in/bernardobonecher/) · Porto Alegre, Brazil
