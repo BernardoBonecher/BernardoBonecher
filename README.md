@@ -28,8 +28,12 @@ How late does your flight usually run? An on-time explorer for every regular dom
 built on 785k flights of ANAC open data: by route, airline and departure hour, with honest intervals
 and a two-option comparison. *Python, pandas, Observable Plot.*
 
-Two more on the way, each a different kind of product: a mobile app for families sharing the care of
-an older relative, and an AI tool that turns user interviews into themes with quotes you can verify.
+**[Sinal](https://github.com/BernardoBonecher/sinal)** · [demo report](https://bernardobonecher.github.io/sinal/)
+Interview synthesis you can check. A local LLM proposes themes from user interviews; code verifies every
+quote word by word against the transcript, and evals score the model against planted ground truth
+(96% literal quotes, 4 of 5 themes found, and the one invented quote caught). *Python, LM Studio, structured output.*
+
+One more on the way: a mobile app for families sharing the care of an older relative.
 
 **Education and learning**
 
