@@ -21,10 +21,15 @@ Data pipelines in Python that join web analytics, ad spend and sales, and the st
 the team uses to follow sales, audience and campaigns. Because they carry client and revenue data,
 none of that code is public. This profile is where I build things in the open instead.
 
-**Building now**
+**Projects**
 
-Three public portfolio projects with synthetic or public data, each one a different kind of product.
-Links will appear here as each one ships.
+**[Atraso](https://github.com/BernardoBonecher/atraso)** · [live](https://bernardobonecher.github.io/atraso/)
+How late does your flight usually run? An on-time explorer for every regular domestic flight in Brazil,
+built on 785k flights of ANAC open data: by route, airline and departure hour, with honest intervals
+and a two-option comparison. *Python, pandas, Observable Plot.*
+
+Two more on the way, each a different kind of product: a mobile app for families sharing the care of
+an older relative, and an AI tool that turns user interviews into themes with quotes you can verify.
 
 **Education and learning**
 
