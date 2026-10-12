@@ -33,7 +33,10 @@ Interview synthesis you can check. A local LLM proposes themes from user intervi
 quote word by word against the transcript, and evals score the model against planted ground truth
 (96% literal quotes, 4 of 5 themes found, and the one invented quote caught). *Python, LM Studio, structured output.*
 
-One more on the way: a mobile app for families sharing the care of an older relative.
+**[Rede de Cuidado](https://github.com/BernardoBonecher/rede-de-cuidado)** · [demo](https://bernardobonecher.github.io/rede-de-cuidado/?demo)
+A mobile web app for families sharing the care of an older relative: who gave which medicine and when,
+who covers each shift, what still needs doing. The database refuses a double dose; Row Level Security
+keeps each family's data to itself; built for older eyes and hands. *React, TypeScript, Supabase.*
 
 **Education and learning**
 
