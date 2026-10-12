@@ -41,8 +41,10 @@ keeps each family's data to itself; built for older eyes and hands. *React, Type
 **Education and learning**
 
 - B.A. in Business Administration, Federal University of Santa Catarina (UFSC)
-- Alura careers: *AI Product Builder* (prompt and context engineering, product discovery, Claude Code, Lovable, Supabase, n8n), *AI Specialist* and *Tech Lead in the AI Era*
+- Alura careers, completed October 2026: *AI Product Builder*, *AI Specialist* and *Tech Lead in the AI Era*
 - Alura track *Product Management* and *Scrum*
+
+What each career covered, and which of it the projects above actually demonstrate: [LEARNING.md](LEARNING.md).
 
 ---
 
