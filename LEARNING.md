@@ -53,7 +53,7 @@ Design Sprint) and *Scrum*.
 | AI governance and privacy | AI governance | Yes (no personal data in public code) | [Sinal](https://github.com/BernardoBonecher/sinal): personal data redacted before the model; local model so transcripts stay on the machine. [Rede de Cuidado](https://github.com/BernardoBonecher/rede-de-cuidado): closed sign-ups for a health-adjacent app |
 | Backend with auth and authorization (Supabase) | Supabase; Lovable | No | [Rede de Cuidado](https://github.com/BernardoBonecher/rede-de-cuidado): Row Level Security, database functions, realtime; 14 security tests as real users |
 | Accessible, mobile-first UX | Product Design; Maze; Clarity | Partly | [Rede de Cuidado](https://github.com/BernardoBonecher/rede-de-cuidado): legible type, large targets, status never by color alone |
-| Testing and CI | XP; code review | Partly | All three: automated tests, and CI that builds and deploys only after tests pass (Atraso, Rede de Cuidado) |
+| Testing and CI | XP; code review | Partly | All three have automated tests (Atraso 21, Sinal 35, Rede de Cuidado 21 + 14 security tests). In Rede de Cuidado, CI runs them and deploys only if they pass |
 | AI-assisted development (Claude Code) | Claude Code; Codex | Daily | All three were built with Claude Code; the READMEs document the decisions and the mistakes |
 | Process automation (n8n) | n8n (4 courses) | No | Only studied |
 | RAG, LangChain, LangGraph, CrewAI, multi-agent systems | AI Specialist level 2 | No | Only studied |
